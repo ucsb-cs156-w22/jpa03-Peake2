@@ -1,4 +1,4 @@
-# demo-spring-react-example: dsre
+# JPA03 - Garrett Peake
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Peake2/branch/main/graph/badge.svg?token=pxCUbEuBji)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Peake2)
 
