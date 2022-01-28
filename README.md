@@ -2,6 +2,9 @@
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Peake2/branch/main/graph/badge.svg?token=pxCUbEuBji)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Peake2)
 
+Repo:  
+https://github.com/ucsb-cs156-w22/jpa03-Peake2
+
 Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/jpa03-Peake2-docs/storybook>
