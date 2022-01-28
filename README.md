@@ -1,5 +1,7 @@
 # demo-spring-react-example: dsre
 
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Peake2/branch/master/graph/badge.svg?token=pxCUbEuBji)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-Peake2)
+
 Storybook is here:
 
 - Production: <https://ucsb-cs156-w22.github.io/demo-spring-react-example-docs/storybook>
